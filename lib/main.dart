@@ -138,7 +138,7 @@ class _HomePageState extends State<HomePage> {
       String totalTodos = ((totalConta + ((totalConta/100) * garcom))/pessoas).toStringAsFixed(2);
 
       _infoText =
-        "Total a pagar: R\$$totalPagar\n"
+        "Total a pdddddddagar: R\$$totalPagar\n"
         "Total do garçom: R\$$totalGarcom\n"
         "Ficou R\$$totalTodos por pessoa\n";
     });
